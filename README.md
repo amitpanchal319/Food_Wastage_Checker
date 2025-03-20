@@ -27,7 +27,7 @@ Run the app:
 
 🚀 Deployment on Render
 
-The application is deployed on Render. You can access it here.
+The application is deployed on Render. You can access it here. [Live App on Render] [Link](https://food-wastage-checker.onrender.com/)
 
 📂 Technologies Used
 
@@ -56,4 +56,4 @@ Feel free to fork this repository, raise issues, or submit pull requests for imp
 📞 Contact
 
 Amit Panchal
-LinkedIn - [text](https://www.linkedin.com/in/amit-panchal0319/)
+LinkedIn - [Link](https://www.linkedin.com/in/amit-panchal0319/)
